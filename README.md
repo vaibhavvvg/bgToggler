@@ -1,7 +1,9 @@
 🎨 BGChanger:
+
 A simple React application that allows users to change the background color of the page by clicking on colored buttons. This project demonstrates fundamental React concepts such as component reusability, useState hook, props handling, and basic Tailwind CSS styling.
 
 🚀 Features:
+
 Clickable buttons to change the background color dynamically
 
 Tailwind CSS for sleek UI styling
@@ -27,26 +29,26 @@ bgchanger/
 
 🧠 How It Works:
 
-App.jsx
+    App.jsx:
 
-Uses the useState hook to manage background color.
+    Uses the useState hook to manage background color.
 
-ColorButton is a reusable button component that receives the color name and setColor function as props.
+    ColorButton is a reusable button component that receives the color name and setColor function as props.
 
-A list of predefined colors is mapped to individual buttons.
+    A list of predefined colors is mapped to individual buttons.
 
-Clicking a button updates the background color of the full screen.
+    Clicking a button updates the background color of the full screen.
 
-Property.jsx
-Demonstrates another way to build color-changing buttons using props colorProp and txtInput.
+    Property.jsx:
 
-Best for rendering single-color controls in isolation or dynamic scenarios.
+    Demonstrates another way to build color-changing buttons using props colorProp and txtInput.
+
+    Best for rendering single-color controls in isolation or dynamic scenarios.
 
 🛠️ Installation & Usage:
 
 Clone the repository
 
-git clone https://github.com/vaibhavvvg/bgchanger.git
 cd bgToggler
 Install dependencies
 
