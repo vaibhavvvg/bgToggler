@@ -43,7 +43,7 @@ Best for rendering single-color controls in isolation or dynamic scenarios.
 🛠️ Installation & Usage
 Clone the repository
 
-git clone https://github.com/yourusername/bgchanger.git
+git clone https://github.com/vaibhavvvg/bgchanger.git
 cd bgchanger
 Install dependencies
 
@@ -53,7 +53,6 @@ Run the app
 npm run dev
 Open your browser at http//localhost:5173/ (if using Vite) or the specified local server.
 
-✨ Example Colors Included
 
 ✨ Example Colors Included
 
