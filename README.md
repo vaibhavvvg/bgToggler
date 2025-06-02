@@ -81,10 +81,12 @@ Open your browser at http//localhost:5173/ (if using Vite) or the specified loca
 
 🖤 Black
 
-📄 License
+📄 License:
+
 This project is open source and available under the MIT License.
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 React.js Documentation
 
 Tailwind CSS
